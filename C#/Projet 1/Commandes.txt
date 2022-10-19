@@ -1,0 +1,5 @@
+1;MARCAL Thomas;PARIS;TOULON;4316,8;Voiture;9 passager(s);Romu Ald;2/3/2021
+2;MARCAL Laura;PARIS;MARSEILLE;3095,4333333333334;Camion;80 / Lait;Rome Paris;5/7/2020
+3;MARCAL Thomas;PARIS;TOULOUSE;2393,6;Fourgon;Pro;Rome Paris;9/8/2021
+4;MARCAL Thomas;PARIS;LYON;1614,925;Camion;5 / 4;Rimou Marc;12/5/2019
+5;MARCAL Thomas;PARIS;LYON;2229,85;Camion;89 / Ble;Romu Ald;2/1/1985
